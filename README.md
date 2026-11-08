@@ -143,7 +143,7 @@ MIT licensed
 
 <br>
 
-- **[aws-multi-region-failover](https://github.com/seniru-ekanayake/aws-multi-region-failover)**: Terraform for multi-region AWS failover, with a GitHub Actions deploy workflow.
+- **[aws-multi-region-failover](https://github.com/seniru-ekanayake/aws-multi-region-failover)**: Terraform foundation for a two-region AWS deployment (us-east-1 and us-west-2), deployed with GitHub Actions. DNS failover is the planned next step.
 - **[nemoclaw-chatbot](https://github.com/seniru-ekanayake/nemoclaw-chatbot)**: RAG security-policy chatbot on NVIDIA Nemotron (via OpenRouter) with NemoClaw guardrails.
 
 </details>
@@ -228,7 +228,7 @@ Multi-agent orchestration · Model Context Protocol (MCP) · Google ADK · LangG
 
 **☁️ Cloud security**
 
-Google Cloud (Cloud Run, Vertex AI, SecOps) · Microsoft Azure and Entra ID · AWS · Terraform and infrastructure as code · multi-region resilience · cloud security telemetry · least-privilege design · compliance as evidence (ISO 27001, NIST CSF)
+Google Cloud (Cloud Run, Vertex AI, SecOps) · Microsoft Azure and Entra ID · AWS · Terraform and infrastructure as code · multi-region infrastructure · cloud security telemetry · least-privilege design · compliance as evidence (ISO 27001, NIST CSF)
 
 </td>
 <td width="50%" valign="top">
